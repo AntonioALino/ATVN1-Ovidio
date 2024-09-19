@@ -1,6 +1,6 @@
 function SubmitButton(){
   return(
-    <button type="submit">Enviar</button>
+    <button type="submit" className="btn-form">Enviar</button>
   )
 }
 

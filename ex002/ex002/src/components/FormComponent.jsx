@@ -3,7 +3,7 @@ import SubmitButton from "./SubmitButton";
 
 function FormComponent(){
   return(
-    <form action="">
+    <form action="" className="form">
       <InputFile/>
       <SubmitButton/>
     </form>
